@@ -2,7 +2,7 @@
 
 
 <p align="center" width="300">
-   <img align="center" width="200" src="https://i.ibb.co/51SSMJm/profile-2.png" />
+   <img align="center" width="200" src="https://media.licdn.com/dms/image/D4D03AQFWvPYQ2kuoMQ/profile-displayphoto-shrink_800_800/0/1707009407498?e=1714608000&v=beta&t=bIKtF_35i5toU71GTqrRScHB54HZKrA3GBa63Xk3sXI" />
    <h3 align="center">Soy Desarrollador Java Fullstack</h3>
 </p>
 

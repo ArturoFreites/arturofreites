@@ -15,7 +15,7 @@
 
 - 📫 Para comunicarte conmigo **luisarturofreites1@gmail.com**
 
-- 📄 Sobre mi experiencia te invito a ver mi perfil de LinkedIn [https://www.linkedin.com/in/arturo-freites-java-developer/](https://www.linkedin.com/in/arturo-freites-java-developer/)
+- 📄 Sobre mi experiencia te invito a ver mi perfil de LinkedIn [https://www.linkedin.com/in/arturo-freites/](https://www.linkedin.com/in/arturo-freites/)
 
 <h3 align="center">Mis Redes Sociales:</h3>
 <p align="center">
